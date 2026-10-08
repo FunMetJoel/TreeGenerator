@@ -1,0 +1,21 @@
+{
+  "name": "treegenerator",
+  "version": "1.0.0",
+  "description": "Create different kinds of tree structure visualizations from different kinds of tree data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FunMetJoel/TreeGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FunMetJoel/TreeGenerator/issues"
+  },
+  "homepage": "https://github.com/FunMetJoel/TreeGenerator#readme"
+}
